@@ -6,26 +6,6 @@ public class Employee {
     private long salary; // :)
     private int age;
 
-    public String getFullName() {
-        return fullName;
-    }
-
-    public String getPosition() {
-        return position;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public String getPhoneNumber() {
-        return phoneNumber;
-    }
-
-    public long getSalary() {
-        return salary;
-    }
-
     public int getAge() {
         return age;
     }
